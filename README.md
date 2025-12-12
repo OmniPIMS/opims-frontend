@@ -20,21 +20,14 @@ It provides administrative tools for defining schemas, creating attributes, and 
 - Axios (for API calls)
 
 ## 📂 Project Structure
-  /src
-  
-  /components
-  
-  /pages
-  
-  /services
-  
-  /styles
-  
-  main.js
-  
-  index.html
-  
-  Dockerfile
+/src
+/components
+/pages
+/services
+/styles
+main.js
+index.html
+Dockerfile
 
 
 ## ▶ Running Locally
